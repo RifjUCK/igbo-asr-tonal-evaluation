@@ -3,6 +3,7 @@
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-omniASR--igbo--blindspots-blue)](https://huggingface.co/datasets/chiz/omniASR-igbo-blindspots)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
+[![Colab to GitHub Notebook Metadata Sanitizer](https://github.com/chizkidd/igbo-asr-tonal-evaluation/actions/workflows/clean-notebooks.yml/badge.svg)](https://github.com/chizkidd/igbo-asr-tonal-evaluation/actions/workflows/clean-notebooks.yml)
 
 Systematic evaluation of tonal fidelity in facebook/omniASR-CTC-1B when processing Igbo, a tonal Niger-Congo language with ~45 million speakers.
 
