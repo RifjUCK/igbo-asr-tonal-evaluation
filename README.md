@@ -234,5 +234,3 @@ See [LICENSE](LICENSE) for details.
 [HuggingFace](https://huggingface.co/chiz) | [GitHub](https://github.com/chizkidd)
 
 ---
-
-*Systematic evaluation of ML model blind spots using native speaker expertise.*
